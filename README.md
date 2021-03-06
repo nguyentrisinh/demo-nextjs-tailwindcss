@@ -1,6 +1,6 @@
 # <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Demo TailwindCSS NextJS</h1>
   
-<h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Guide setup TailwindCSS for NextJS with </h3>
+<h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Guide setup TailwindCSS for NextJS</h3>
   
 <p align="center">
   <a href="https://github.com/nguyentrisinh/demo-nextjs-tailwindcss"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/nguyentrisinh/demo-nextjs-tailwindcss/build"></a>
